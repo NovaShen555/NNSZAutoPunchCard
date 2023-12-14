@@ -1,4 +1,5 @@
 import json
+import time
 
 from flask import Flask, render_template, request, flash
 from punch_crack import *
@@ -9,6 +10,8 @@ app = Flask(__name__)
 csv_file = 'data.csv'
 csv_file2 = 'output.csv'
 
+def getTime():
+    return time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
@@ -28,7 +31,7 @@ def index():
         if err == 0:
             # 尝试获取cardId是否合法
             ck = punchCard(cardId, deviceId)
-            print(ck)
+            print(getTime()+str(ck))
             if ck['code'] != 200:
                 err = 1
 
