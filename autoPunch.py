@@ -2,16 +2,27 @@ import schedule
 import time
 from punch_crack import *
 
-cardId = "1397479175"
-deviceId = "E4246CB6B512"
 
-
-
+def getTime():
+    return time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
 
 def your_task():
-    # 在这里定义你的任务
-    print("执行任务")
-    punchCard(cardId, deviceId)
+    # 清除output.csv的数据
+    with open('output.csv', 'w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow([])
+    # 读取data.csv的数据逐个执行
+    with open('data.csv', 'r') as file:
+        reader = csv.reader(file)
+        for row in reader:
+            # 尝试获取cardId是否合法
+            ck = punchCard(row[0], row[1])
+            print(ck)
+            if ck['code'] == 200:
+                # 将数据写入CSV文件
+                with open('output.csv', 'a', newline='') as file:
+                    writer = csv.writer(file)
+                    writer.writerow([row[0], getTime()])
 
 # 创建一个调度器对象
 scheduler = schedule.Scheduler()
@@ -28,7 +39,7 @@ for day in days_of_week:
 scheduler.every().friday.at("06:55").do(your_task)
 scheduler.every().friday.at("14:35").do(your_task)
 
-# 运行调度器
+
 while True:
     scheduler.run_pending()
     time.sleep(1)

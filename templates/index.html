@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web服务页面</title>
+</head>
+<body>
+
+    <h1>Web服务页面</h1>
+
+    <!-- 显示消息 -->
+    {% if message %}
+    <div class="message">
+        {{ message }}
+    </div>
+    {% endif %}
+
+    <form method="POST">
+        <label for="input1">cardId：</label>
+        <input type="text" id="input1" name="input1"><br><br>
+
+        <label for="input2">deviceId：</label>
+        <input type="text" id="input2" name="input2"><br><br>
+
+        <input type="submit" value="提交"><br><br>
+    </form>
+
+    <h2>log：</h2>
+    <table border="1">
+        <tr>
+            <th>cardId</th>
+            <th>punchTime</th>
+        </tr>
+        {% for row in table_data %}
+        <tr>
+            <td>{{ row[0] }}</td>
+            <td>{{ row[1] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <h2>DoList：</h2>
+    <table border="1">
+        <tr>
+            <th>catdId</th>
+            <th>deviceId</th>
+        </tr>
+        {% for row in table_data2 %}
+        <tr>
+            <td>{{ row[0] }}</td>
+            <td>{{ row[1] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
