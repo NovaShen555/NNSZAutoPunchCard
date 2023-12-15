@@ -35,13 +35,13 @@ scheduler = schedule.Scheduler()
 days_of_week = ["sunday", "monday", "tuesday", "wednesday", "thursday"]
 
 for day in days_of_week:
-    scheduler.every().day.at("06:55").do(your_task)
-    scheduler.every().day.at("14:35").do(your_task)
-    scheduler.every().day.at("18:55").do(your_task)
+    scheduler.every().day.at("06:45").do(your_task)
+    scheduler.every().day.at("14:25").do(your_task)
+    scheduler.every().day.at("18:45").do(your_task)
 
 # 定义周五的执行任务
-scheduler.every().friday.at("06:55").do(your_task)
-scheduler.every().friday.at("14:35").do(your_task)
+scheduler.every().friday.at("06:45").do(your_task)
+scheduler.every().friday.at("14:25").do(your_task)
 
 # your_task()
 while True:
