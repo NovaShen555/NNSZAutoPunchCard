@@ -26,6 +26,7 @@ def your_task():
                 with open('output.csv', 'a', newline='') as file:
                     writer = csv.writer(file)
                     writer.writerow([row[0], getTime()])
+    time.sleep(60)
 
 # 创建一个调度器对象
 scheduler = schedule.Scheduler()
