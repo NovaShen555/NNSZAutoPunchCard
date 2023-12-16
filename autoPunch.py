@@ -26,7 +26,6 @@ def your_task():
                 with open('output.csv', 'a', newline='') as file:
                     writer = csv.writer(file)
                     writer.writerow([row[0], getTime()])
-    time.sleep(60)
 
 # 创建一个调度器对象
 scheduler = schedule.Scheduler()
@@ -35,6 +34,7 @@ scheduler = schedule.Scheduler()
 days_of_week = ["sunday", "monday", "tuesday", "wednesday", "thursday"]
 
 for day in days_of_week:
+    print(day)
     scheduler.every().day.at("06:45").do(your_task)
     scheduler.every().day.at("14:25").do(your_task)
     scheduler.every().day.at("18:45").do(your_task)
@@ -46,4 +46,4 @@ scheduler.every().friday.at("14:25").do(your_task)
 # your_task()
 while True:
     scheduler.run_pending()
-    time.sleep(1)
+    time.sleep(30)
