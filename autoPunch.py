@@ -33,11 +33,29 @@ scheduler = schedule.Scheduler()
 # 定义每周日到下一个周五的每天早上7点和下午2点执行任务
 days_of_week = ["sunday", "monday", "tuesday", "wednesday", "thursday"]
 
-for day in days_of_week:
-    print(day)
-    scheduler.every().day.at("06:45").do(your_task)
-    scheduler.every().day.at("14:25").do(your_task)
-    scheduler.every().day.at("18:45").do(your_task)
+# 定义周日的执行任务
+scheduler.every().sunday.at("14:25").do(your_task)
+scheduler.every().sunday.at("18:25").do(your_task)
+
+# 定义周一的执行任务
+scheduler.every().monday.at("06:45").do(your_task)
+scheduler.every().monday.at("14:25").do(your_task)
+scheduler.every().monday.at("18:25").do(your_task)
+
+# 定义周二的执行任务
+scheduler.every().tuesday.at("06:45").do(your_task)
+scheduler.every().tuesday.at("14:25").do(your_task)
+scheduler.every().tuesday.at("18:25").do(your_task)
+
+# 定义周三的执行任务
+scheduler.every().wednesday.at("06:45").do(your_task)
+scheduler.every().wednesday.at("14:25").do(your_task)
+scheduler.every().wednesday.at("18:25").do(your_task)
+
+# 定义周四的执行任务
+scheduler.every().thursday.at("06:45").do(your_task)
+scheduler.every().thursday.at("14:25").do(your_task)
+scheduler.every().thursday.at("18:25").do(your_task)
 
 # 定义周五的执行任务
 scheduler.every().friday.at("06:45").do(your_task)
@@ -46,4 +64,4 @@ scheduler.every().friday.at("14:25").do(your_task)
 # your_task()
 while True:
     scheduler.run_pending()
-    time.sleep(30)
+    time.sleep(20)
