@@ -36,8 +36,6 @@ def your_task():
 # 创建一个调度器对象
 scheduler = schedule.Scheduler()
 
-# 定义每周日到下一个周五的每天早上7点和下午2点执行任务
-days_of_week = ["sunday", "monday", "tuesday", "wednesday", "thursday"]
 
 # 定义周日的执行任务
 scheduler.every().sunday.at("14:25").do(your_task)
