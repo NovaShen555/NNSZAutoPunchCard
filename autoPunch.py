@@ -11,6 +11,8 @@ def getTime():
 def your_task():
     # 进行随机的等待
     time.sleep(random.randrange(0,600))
+    punch()
+def punch():
     # 清除output.csv的数据
     with open('output.csv', 'w', newline='') as file:
         writer = csv.writer(file)

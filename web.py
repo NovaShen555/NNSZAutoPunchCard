@@ -3,6 +3,7 @@ import time
 
 from flask import Flask, render_template, request, flash
 from punch_crack import *
+from autoPunch import punch
 
 app = Flask(__name__)
 
@@ -40,6 +41,9 @@ def index():
             with open(csv_file, 'a', newline='') as file:
                 writer = csv.writer(file)
                 writer.writerow([cardId, deviceId])
+
+    if request.method == 'GET':
+        punch()
 
     # 从第一个CSV文件中读取数据
     table_data = []
