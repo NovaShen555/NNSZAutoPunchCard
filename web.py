@@ -1,7 +1,7 @@
 import json
 import time
 
-from flask import Flask, render_template, request, flash
+from flask import Flask, render_template, request, flash, redirect, url_for
 from punch_crack import *
 from autoPunch import punch
 
@@ -11,8 +11,17 @@ app = Flask(__name__)
 csv_file = 'data.csv'
 csv_file2 = 'output.csv'
 
+
 def getTime():
     return time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+
+
+@app.route('/punch', methods=['POST'])
+def manualPunch():
+    print("Here it is")
+    if request.method == 'POST':
+        punch()
+        return redirect(url_for('index'))
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
@@ -32,7 +41,7 @@ def index():
         if err == 0:
             # 尝试获取cardId是否合法
             ck = punchCard(cardId, deviceId)
-            print(getTime()+str(ck))
+            print(getTime() + str(ck))
             if ck['code'] != 200:
                 err = 1
 
@@ -41,9 +50,6 @@ def index():
             with open(csv_file, 'a', newline='') as file:
                 writer = csv.writer(file)
                 writer.writerow([cardId, deviceId])
-
-    if request.method == 'GET':
-        punch()
 
     # 从第一个CSV文件中读取数据
     table_data = []
@@ -63,4 +69,5 @@ def index():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    print('Server is running...')
+    app.run()
