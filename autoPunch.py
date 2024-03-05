@@ -18,6 +18,7 @@ def punch():
     with open('data.csv', 'r') as file:
         reader = csv.reader(file)
         for row in reader:
+            print(row)
             # 尝试获取cardId是否合法
             time.sleep(1)
             try:
