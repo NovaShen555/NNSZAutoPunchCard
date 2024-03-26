@@ -1,6 +1,7 @@
 import requests
 from .constants import PUNCH_URL, HEADERS
 
+
 def makePunchPostContent(cardId: str = "", deviceId: str = ""):
     return {
         "CardNo": cardId,
@@ -8,11 +9,13 @@ def makePunchPostContent(cardId: str = "", deviceId: str = ""):
         "sign": f"CardNo={cardId}DeviceId={deviceId}",
     }
 
+
 def __punchCard(punchUrl: str = "", punchHeaders: str = "", punchData: dict = {}):
     return requests.post(
-        url = punchUrl, 
-        headers = punchHeaders, 
-        data = punchData).json()
+        url=punchUrl,
+        headers=punchHeaders,
+        data=punchData).json()
+
 
 def punchCard(punchCardId: str | int = "", punchDeviceId: str | int = ""):
     punchCardId = str(punchCardId)

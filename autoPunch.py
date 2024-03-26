@@ -20,7 +20,7 @@ def punch():
         for row in reader:
             print(row)
             # 尝试获取cardId是否合法
-            time.sleep(1)
+            time.sleep(3)
             try:
                 ck = punchCard(row[0], row[1])
                 time.sleep(2)
@@ -29,11 +29,14 @@ def punch():
                 print(getTime()+str(ck))
                 if ck['code'] == 200:
                     # 将数据写入CSV文件
-                    with open('output.csv', 'a', newline='') as file:
-                        writer = csv.writer(file)
+                    with open('output.csv', 'a', newline='') as f:
+                        writer = csv.writer(f)
                         writer.writerow([row[0], getTime()])
-            except:
+            except Exception as e:
                 print(getTime()+'error')
+                with open('output.csv', 'a', newline='') as f:
+                    writer = csv.writer(f)
+                    writer.writerow([row[0], e])
                 time.sleep(2)
                 continue
 
