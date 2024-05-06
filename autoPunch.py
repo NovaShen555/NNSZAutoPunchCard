@@ -53,32 +53,32 @@ if __name__ == '__main__':
 
 
     # 定义周日的执行任务
-    scheduler.every().sunday.at("14:25").do(your_task)
+    scheduler.every().sunday.at("14:05").do(your_task)
     scheduler.every().sunday.at("18:45").do(your_task)
 
     # 定义周一的执行任务
     scheduler.every().monday.at("06:45").do(your_task)
-    scheduler.every().monday.at("14:25").do(your_task)
+    scheduler.every().monday.at("14:05").do(your_task)
     scheduler.every().monday.at("18:45").do(your_task)
 
     # 定义周二的执行任务
     scheduler.every().tuesday.at("06:45").do(your_task)
-    scheduler.every().tuesday.at("14:25").do(your_task)
+    scheduler.every().tuesday.at("14:05").do(your_task)
     scheduler.every().tuesday.at("18:45").do(your_task)
 
     # 定义周三的执行任务
     scheduler.every().wednesday.at("06:45").do(your_task)
-    scheduler.every().wednesday.at("14:25").do(your_task)
+    scheduler.every().wednesday.at("14:05").do(your_task)
     scheduler.every().wednesday.at("18:45").do(your_task)
 
     # 定义周四的执行任务
     scheduler.every().thursday.at("06:45").do(your_task)
-    scheduler.every().thursday.at("14:25").do(your_task)
+    scheduler.every().thursday.at("14:05").do(your_task)
     scheduler.every().thursday.at("18:45").do(your_task)
 
     # 定义周五的执行任务
     scheduler.every().friday.at("06:45").do(your_task)
-    scheduler.every().friday.at("14:25").do(your_task)
+    scheduler.every().friday.at("14:05").do(your_task)
 
     # your_task()
     while True:
