@@ -1,0 +1,945 @@
+nohup: ignoring input
+punch now 2024-04-11 18:51:05
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 187.1, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-11 18:51:11{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 187.1, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 66.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-11 18:51:16{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 66.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 221.73, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-11 18:51:22{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 221.73, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 153.5, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-11 18:51:27{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 153.5, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-12 06:47:24
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 187.1, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-12 06:47:29{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 187.1, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 66.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-12 06:47:35{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 66.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 221.73, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-12 06:47:40{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 221.73, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 153.5, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-12 06:47:46{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 153.5, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-12 14:31:36
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 184.1, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-12 14:31:41{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 184.1, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 66.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-12 14:31:47{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 66.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 221.73, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-12 14:31:52{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 221.73, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 153.5, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-12 14:31:58{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 153.5, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-14 14:27:11
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 177.1, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-14 14:27:17{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 177.1, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 66.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-14 14:27:22{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 66.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 210.23, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+2024-04-14 14:27:29{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 210.23, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 124.2, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+2024-04-14 14:27:34{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 124.2, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+punch now 2024-04-14 18:48:12
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 165.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-14 18:48:18{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 165.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 65.3, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-14 18:48:23{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 65.3, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 210.23, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-14 18:48:29{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 210.23, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 111.4, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+2024-04-14 18:48:34{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 111.4, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+punch now 2024-04-15 06:46:33
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 165.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-15 06:46:39{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 165.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 65.3, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-15 06:46:45{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 65.3, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 201.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-15 06:46:50{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 201.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 111.4, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-15 06:46:56{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 111.4, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-15 14:31:47
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 140.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-15 14:31:53{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 140.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 58.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-15 14:31:59{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 58.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 201.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-15 14:32:04{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 201.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 89.7, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-15 14:32:10{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 89.7, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-15 18:51:58
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 131.4, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-15 18:52:04{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 131.4, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 58.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-15 18:52:09{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 58.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 198.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-15 18:52:15{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 198.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 77.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-15 18:52:20{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 77.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-16 06:47:12
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 131.4, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-16 06:47:17{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 131.4, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 58.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-16 06:47:23{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 58.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 198.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-16 06:47:28{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 198.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 277.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-16 06:47:34{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 277.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-16 14:25:37
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 122.3, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-16 14:25:43{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 122.3, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 50.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-16 14:25:48{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 50.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 198.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-16 14:25:54{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 198.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 277.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+2024-04-16 14:25:59{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 277.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+punch now 2024-04-16 18:49:16
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 119.8, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-16 18:49:22{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 119.8, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 50.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-16 18:49:27{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 50.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 198.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-16 18:49:33{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 198.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 277.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+2024-04-16 18:49:38{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 277.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+punch now 2024-04-17 06:52:13
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 119.8, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-17 06:52:18{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 119.8, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 50.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-17 06:52:24{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 50.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 198.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-17 06:52:29{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 198.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 277.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-17 06:52:35{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 277.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-17 14:26:28
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 101.3, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-17 14:26:33{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 101.3, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 38.2, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-17 14:26:39{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 38.2, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 198.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-17 14:26:44{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 198.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 256.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-17 14:26:50{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 256.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-17 18:47:08
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 101.3, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-17 18:47:13{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 101.3, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 38.2, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-17 18:47:19{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 38.2, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 198.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-17 18:47:24{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 198.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 256.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-17 18:47:30{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 256.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-18 06:47:34
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 101.3, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-18 06:47:40{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 101.3, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 38.2, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-18 06:47:46{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 38.2, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 198.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-18 06:47:51{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 198.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 256.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-18 06:47:57{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 256.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-18 14:27:28
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 81.7, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-18 14:27:35{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 81.7, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 38.2, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-18 14:27:41{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 38.2, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 195.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-18 14:27:46{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 195.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 241.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-18 14:27:52{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 241.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-18 18:47:26
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 70.7, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-18 18:47:32{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 70.7, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 38.2, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-18 18:47:38{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 38.2, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 195.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-18 18:47:43{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 195.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 234.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-18 18:47:49{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 234.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-19 06:52:46
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 65.6, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-19 06:52:52{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 65.6, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 38.2, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-19 06:52:57{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 38.2, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+2024-04-19 06:55:14error
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 234.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-19 06:55:22{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 234.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-19 14:25:51
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 63.1, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-19 14:25:56{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 63.1, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 35.0, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-19 14:26:02{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 35.0, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 195.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-19 14:26:08{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 195.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 216.4, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-19 14:26:13{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 216.4, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-21 14:34:30
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 55.6, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-21 14:34:35{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 55.6, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 32.0, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-21 14:34:42{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 32.0, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 176.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+2024-04-21 14:34:47{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 176.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 192.7, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+2024-04-21 14:34:53{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 192.7, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+punch now 2024-04-21 18:51:22
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 49.1, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-21 18:51:28{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 49.1, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 32.0, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-21 18:51:33{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 32.0, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 176.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-21 18:51:39{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 176.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 192.7, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+2024-04-21 18:51:44{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 192.7, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+punch now 2024-04-22 06:54:22
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 49.1, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-22 06:54:28{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 49.1, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 32.0, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-22 06:54:33{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 32.0, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 176.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-22 06:54:39{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 176.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 192.7, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-22 06:54:44{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 192.7, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-22 14:32:36
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 38.0, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-22 14:32:42{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 38.0, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 32.0, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-22 14:32:47{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 32.0, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 149.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-22 14:32:53{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 149.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 170.6, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-22 14:32:58{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 170.6, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-22 18:53:32
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 31.5, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-22 18:53:38{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 31.5, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 32.0, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-22 18:53:43{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 32.0, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 149.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-22 18:53:49{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 149.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 170.6, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-22 18:53:54{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 170.6, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-23 06:54:58
+['1397479175', 'E4246CB6B512']
+2024-04-23 06:57:15error
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 32.0, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-23 06:57:23{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 32.0, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 149.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-23 06:57:28{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 149.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 165.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-23 06:57:34{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 165.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-23 14:34:10
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 27.4, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-23 14:34:15{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 27.4, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 222.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-23 14:34:21{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 222.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 132.13, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-23 14:34:26{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 132.13, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 165.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-23 14:34:32{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 165.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-23 18:49:04
+['1397479175', 'E4246CB6B512']
+2024-04-23 18:51:21error
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 222.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-23 18:51:29{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 222.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 126.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-23 18:51:34{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 126.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 165.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+2024-04-23 18:51:40{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 165.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+punch now 2024-04-24 06:48:28
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 18.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-24 06:48:34{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 18.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 222.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-24 06:48:40{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 222.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 126.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-24 06:48:45{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 126.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 165.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-24 06:48:51{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 165.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-24 14:30:54
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 1.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-24 14:30:59{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 1.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 222.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-24 14:31:05{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 222.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 110.13, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-24 14:31:10{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 110.13, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 135.8, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-24 14:31:16{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 135.8, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-24 18:51:30
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 1.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+2024-04-24 18:51:35{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 1.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 222.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-24 18:51:41{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 222.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 104.13, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-24 18:51:46{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 104.13, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 135.8, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+2024-04-24 18:51:52{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 135.8, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+punch now 2024-04-25 06:45:22
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 1.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-25 06:45:28{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 1.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 222.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-25 06:45:33{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 222.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 104.13, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-25 06:45:39{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 104.13, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 135.8, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-25 06:45:44{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 135.8, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-25 14:28:54
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 197.4, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-25 14:29:00{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 197.4, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 210.5, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-25 14:29:06{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 210.5, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 94.13, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-25 14:29:11{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 94.13, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 116.3, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-25 14:29:17{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 116.3, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-25 18:48:04
+['1397479175', 'E4246CB6B512']
+2024-04-25 18:50:22error
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 210.5, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-25 18:50:30{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 210.5, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 83.13, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-25 18:50:35{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 83.13, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 109.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-25 18:50:41{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 109.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-26 06:45:05
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 190.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-26 06:45:11{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 190.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 210.5, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-26 06:45:17{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 210.5, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 83.13, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-26 06:45:22{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 83.13, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 109.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-26 06:45:28{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 109.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-26 14:26:15
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 187.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-26 14:26:20{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 187.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 210.5, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-26 14:26:26{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 210.5, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 77.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-26 14:26:31{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 77.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 95.4, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-26 14:26:37{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 95.4, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-28 14:29:45
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 164.0, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-28 14:29:51{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 164.0, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 204.0, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-28 14:29:56{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 204.0, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 75.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+2024-04-28 14:30:02{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 75.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 278.2, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+2024-04-28 14:30:07{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 278.2, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+punch now 2024-04-28 18:52:12
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 164.0, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-28 18:52:17{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 164.0, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 194.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-28 18:52:23{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 194.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 71.13, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-28 18:52:28{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 71.13, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 269.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+2024-04-28 18:52:34{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 269.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+punch now 2024-04-29 06:48:23
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 164.0, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-29 06:48:29{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 164.0, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 194.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-29 06:48:35{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 194.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 71.13, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-29 06:48:40{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 71.13, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 267.6, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-29 06:48:46{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 267.6, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-29 14:26:31
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 157.5, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-29 14:26:36{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 157.5, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-29 14:26:42{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 61.03, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-29 14:26:47{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 61.03, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-29 14:26:53{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-29 18:50:47
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 149.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-29 18:50:52{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 149.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-29 18:50:58{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 61.03, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-29 18:51:03{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 61.03, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+2024-04-29 18:51:09{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+punch now 2024-04-30 06:51:44
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 149.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-30 06:51:51{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 149.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-30 06:51:57{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 49.43, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-30 06:52:04{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 49.43, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-30 06:52:10{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-30 14:32:58
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 149.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-30 14:33:04{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 149.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-30 14:33:22{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-30 14:33:28{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-30 14:33:35{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-04-30 18:53:11
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 149.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-30 18:53:17{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 149.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-30 18:53:24{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-04-30 18:53:30{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+2024-04-30 18:53:36{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+punch now 2024-05-01 06:49:22
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 149.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-01 06:49:28{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 149.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-01 06:49:33{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-01 06:49:39{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-01 06:49:44{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-05-01 14:26:12
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 149.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-01 14:26:18{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 149.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-01 14:26:23{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-01 14:26:29{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-01 14:26:36{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-05-01 18:52:47
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 149.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-01 18:52:53{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 149.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-01 18:52:58{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-01 18:53:04{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-01 18:53:09{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-05-02 06:52:05
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 149.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-02 06:52:11{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 149.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-02 06:52:16{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-02 06:52:22{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-02 06:52:27{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-05-02 14:32:00
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 143.0, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-02 14:32:06{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 143.0, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-02 14:32:12{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-02 14:32:17{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-02 14:32:23{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-05-02 18:48:57
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 138.3, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-02 18:49:03{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 138.3, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-02 18:49:08{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-02 18:49:14{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-02 18:49:20{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-05-03 06:47:38
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 138.3, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-03 06:47:44{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 138.3, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-03 06:47:50{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 193.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-03 06:47:55{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-03 06:48:01{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-05-03 14:27:20
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 125.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-03 14:27:25{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 125.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 180.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-03 14:27:31{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 180.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-03 14:27:36{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-03 14:27:42{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-05-05 14:34:38
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 110.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-05 14:34:44{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 110.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 180.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-05 14:34:49{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 180.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+2024-05-05 14:34:55{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+2024-05-05 14:35:01{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+punch now 2024-05-05 18:45:11
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 110.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-05 18:45:17{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 110.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 180.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-05 18:45:22{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 180.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-05 18:45:28{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+2024-05-05 18:45:33{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 1, 'ClassRoomAttendState': 0}}
+punch now 2024-05-06 06:46:09
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 106.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-06 06:46:15{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 106.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 180.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-06 06:46:20{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 180.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-06 06:46:26{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-06 06:46:32{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 257.0, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-05-06 14:30:43
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 92.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-06 14:30:48{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 92.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 164.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-06 14:30:54{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 164.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-06 14:31:00{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 27.93, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 233.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-06 14:31:05{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 233.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+punch now 2024-05-06 18:50:49
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 92.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-06 18:50:54{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 92.9, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 164.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-06 18:51:00{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 164.7, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 19.43, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-06 18:51:06{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 19.43, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 228.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+2024-05-06 18:51:11{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 228.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}

@@ -1,0 +1,218 @@
+nohup: ignoring input
+Server is running...
+ * Serving Flask app 'web'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [11/Apr/2024 13:28:02] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [11/Apr/2024 14:23:18] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [11/Apr/2024 14:27:11] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [11/Apr/2024 14:27:14] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [11/Apr/2024 17:28:43] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [11/Apr/2024 17:32:54] "GET / HTTP/1.0" 200 -
+Here it is
+punch now 2024-04-11 17:32:59
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+2024-04-11 17:33:05{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 194.1, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+2024-04-11 17:33:10{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 66.8, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+2024-04-11 17:33:16{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 221.73, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+2024-04-11 17:33:21{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 153.5, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 1}}
+127.0.0.1 - - [11/Apr/2024 17:33:21] "[32mPOST /punch HTTP/1.0[0m" 302 -
+127.0.0.1 - - [11/Apr/2024 17:33:22] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [11/Apr/2024 22:45:47] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [12/Apr/2024 07:06:41] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [12/Apr/2024 07:06:42] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Apr/2024 18:52:55] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [14/Apr/2024 18:52:56] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [16/Apr/2024 07:06:08] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [16/Apr/2024 07:06:09] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [16/Apr/2024 14:02:20] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [16/Apr/2024 15:12:23] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [16/Apr/2024 15:23:06] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [16/Apr/2024 22:09:16] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [16/Apr/2024 22:09:16] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Apr/2024 18:07:35] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [20/Apr/2024 03:54:26] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [23/Apr/2024 07:11:40] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [23/Apr/2024 07:11:41] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+Here it is
+punch now 2024-04-23 07:12:07
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+2024-04-23 07:12:13{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 31.5, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 2}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+2024-04-23 07:12:19{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 32.0, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+2024-04-23 07:12:24{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 149.63, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+2024-04-23 07:12:30{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 165.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+127.0.0.1 - - [23/Apr/2024 07:12:30] "[32mPOST /punch HTTP/1.0[0m" 302 -
+127.0.0.1 - - [23/Apr/2024 07:12:30] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [23/Apr/2024 09:10:40] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [23/Apr/2024 14:36:36] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [23/Apr/2024 14:36:36] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [24/Apr/2024 00:21:32] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [24/Apr/2024 00:21:33] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [24/Apr/2024 00:32:03] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [24/Apr/2024 00:54:20] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [24/Apr/2024 06:54:54] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [24/Apr/2024 06:54:55] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [24/Apr/2024 14:38:35] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [24/Apr/2024 14:38:37] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [24/Apr/2024 21:14:38] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [25/Apr/2024 03:39:31] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [25/Apr/2024 07:56:39] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [25/Apr/2024 08:24:16] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [25/Apr/2024 18:50:54] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [25/Apr/2024 18:50:55] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+Here it is
+punch now 2024-04-25 18:50:59
+['1397479175', 'E4246CB6B512']
+1397479175 E4246CB6B512
+2024-04-25 18:51:05{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33162, 'CardNo': None, 'UserName': '申宇航', 'Sex': '男', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 579, 'ClassName': '高2021级13班', 'picpath': 'studentPhoto/33162.jpg', 'Balance': 190.2, 'MsgCount': 0, 'Userid': '2021001332', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['1527537191', 'E4246CB6B512']
+1527537191 E4246CB6B512
+2024-04-25 18:51:10{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 33031, 'CardNo': None, 'UserName': '黄兰婷', 'Sex': '女', 'UserDept1': 46, 'DeptName': '高2021级', 'UserDept2': 577, 'ClassName': '高2021级11班', 'picpath': 'studentPhoto/33031.jpg', 'Balance': 210.5, 'MsgCount': 0, 'Userid': '2021001108', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['3666362290', 'E4246CCDA916']
+3666362290 E4246CCDA916
+2024-04-25 18:51:16{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34854, 'CardNo': None, 'UserName': '高子轩', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 615, 'ClassName': '高2022级20班', 'picpath': 'StudentPhoto/34854.jpg', 'Balance': 83.13, 'MsgCount': 0, 'Userid': '2022000153', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+['235373947', 'E4246CCDA916']
+235373947 E4246CCDA916
+2024-04-25 18:51:22{'code': 200, 'detail': 'success', 'msg': '保存记录成功', 'data': {'Account': 34510, 'CardNo': None, 'UserName': '谢昀宸', 'Sex': '男', 'UserDept1': 47, 'DeptName': '高2022级', 'UserDept2': 612, 'ClassName': '高2022级17班', 'picpath': 'studentPhoto/34510.jpg', 'Balance': 109.1, 'MsgCount': 0, 'Userid': '2022000919', 'IsLeave': 0, 'ClassRoomAttendState': 0}}
+127.0.0.1 - - [25/Apr/2024 18:51:22] "[32mPOST /punch HTTP/1.0[0m" 302 -
+127.0.0.1 - - [25/Apr/2024 18:51:22] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [26/Apr/2024 07:07:23] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [26/Apr/2024 07:07:24] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [26/Apr/2024 12:56:23] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [26/Apr/2024 20:01:03] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [27/Apr/2024 00:23:22] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [27/Apr/2024 00:33:50] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [27/Apr/2024 01:07:50] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [28/Apr/2024 01:29:20] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [28/Apr/2024 01:29:21] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [28/Apr/2024 08:08:30] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [28/Apr/2024 16:40:34] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [29/Apr/2024 06:53:25] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [29/Apr/2024 06:53:26] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:26] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [29/Apr/2024 06:53:26] "[33mGET /admin HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /js/base1.js HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /config.js HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /site/info HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /api/config HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /mobile/ HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /my/zijin.png HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /Home/Get/getJnd28 HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /app/ HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /m/ HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /js/nsc/main.js HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /css/nsc/reset.css HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /Home/GetInitSource HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /banner.do?code=1 HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /mobile/lottery/list HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /Scripts/common.js HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /data/json/config.json HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /skin/main/onload.js HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /resources/css/headernav.css HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /mobile/v3/appSuperDownload.do HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /Public/Home/js/cls.js HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:27] "[33mGET /api/config/banner/list HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:28] "[33mGET /resources/main/common.js HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:28] "[33mGET /views/commData/commonSite.js HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:28] "[33mGET /Template/Mobile/js/main.js HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:28] "[33mGET /melody/api/v1/pageconfig/list HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:28] "[33mGET /ws/index/getTheLotteryInitList HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:28] "[33mGET /getConfig/getArticle.do?code=1 HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:28] "[33mGET /getConfig/getArticle.do?code=19 HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:28] "[33mGET /common/member/js/user.util.js HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:28] "[33mGET /server/business/api/customer/list HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:28] "[33mGET /bet/lotteryinfo/allLotteryInfoList HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:28] "[33mGET /api/v/index/queryOfficePage?officeCode=customHomeLink HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:28] "[33mGET /leftDao.php?callback=jQuery183016740860980352856_1604309800583 HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:28] "[33mGET /getConfig/listPopFrame.do?code=1&position=index&_=1601489645097 HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:28] "[33mGET /getConfig/listPopFrame.do?code=14&position=index&_=1601489645097 HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:28] "[33mGET /common/template/lottery/lecai/css/style.css HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:28] "[33mGET /static/local/img/userCenter/hourlyPrivilege.svg HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:28] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [29/Apr/2024 06:53:29] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:29] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [29/Apr/2024 06:53:29] "[33mGET /admin HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:29] "[33mGET /mobile/ HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:29] "[33mGET /m/ HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:29] "[33mGET /site/info HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:29] "[33mGET /app/ HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:29] "[33mGET /api/config HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /config.js HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /banner.do?code=1 HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /Home/Get/getJnd28 HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /js/base1.js HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /Home/GetInitSource HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /mobile/lottery/list HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /js/nsc/main.js HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /data/json/config.json HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /api/config/banner/list HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /skin/main/onload.js HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /Public/Home/js/cls.js HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /resources/main/common.js HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /mobile/v3/appSuperDownload.do HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mPOST /melody/api/v1/pageconfig/list HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /views/commData/commonSite.js HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /Template/Mobile/js/main.js HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /resources/css/headernav.css HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /getConfig/getArticle.do?code=1 HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /ws/index/getTheLotteryInitList HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /common/member/js/user.util.js HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /getConfig/getArticle.do?code=19 HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /server/business/api/customer/list HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /bet/lotteryinfo/allLotteryInfoList HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:30] "[33mGET /api/v/index/queryOfficePage?officeCode=customHomeLink HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:31] "[33mGET /leftDao.php?callback=jQuery183016740860980352856_1604309800583 HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:31] "[33mGET /getConfig/listPopFrame.do?code=14&position=index&_=1601489645097 HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:31] "[33mGET /getConfig/listPopFrame.do?code=1&position=index&_=1601489645097 HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:31] "[33mGET /static/local/img/userCenter/hourlyPrivilege.svg HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 06:53:31] "[33mGET /common/template/lottery/lecai/css/style.css HTTP/1.0[0m" 404 -
+127.0.0.1 - - [29/Apr/2024 19:13:05] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [29/Apr/2024 19:13:06] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [30/Apr/2024 04:17:53] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [30/Apr/2024 09:27:19] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [30/Apr/2024 09:27:23] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [30/Apr/2024 09:27:28] "[33mGET /robots.txt HTTP/1.0[0m" 404 -
+127.0.0.1 - - [30/Apr/2024 09:27:31] "[33mGET /sitemap.xml HTTP/1.0[0m" 404 -
+127.0.0.1 - - [30/Apr/2024 10:15:12] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [30/Apr/2024 10:15:18] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [30/Apr/2024 10:15:23] "[33mGET /robots.txt HTTP/1.0[0m" 404 -
+127.0.0.1 - - [30/Apr/2024 10:15:28] "[33mGET /sitemap.xml HTTP/1.0[0m" 404 -
+127.0.0.1 - - [30/Apr/2024 22:22:56] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [01/May/2024 20:29:33] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [02/May/2024 14:33:54] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [02/May/2024 14:33:56] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [02/May/2024 19:00:42] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [02/May/2024 19:00:42] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [06/May/2024 09:58:17] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [06/May/2024 09:58:53] "[33mGET /robots.txt HTTP/1.0[0m" 404 -
+127.0.0.1 - - [06/May/2024 09:59:04] "[33mGET /sitemap.xml HTTP/1.0[0m" 404 -
+127.0.0.1 - - [06/May/2024 10:04:02] "[33mGET /assets/img/icon/log1.png HTTP/1.0[0m" 404 -
+127.0.0.1 - - [06/May/2024 10:04:50] "[33mGET /images/favicon-196x196.png HTTP/1.0[0m" 404 -
+127.0.0.1 - - [06/May/2024 10:05:33] "[33mGET /imgs/logox.png HTTP/1.0[0m" 404 -
+127.0.0.1 - - [06/May/2024 10:05:41] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [06/May/2024 10:06:37] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [06/May/2024 10:06:54] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [06/May/2024 10:07:04] "[33mGET /image/favicon.png HTTP/1.0[0m" 404 -
+127.0.0.1 - - [06/May/2024 10:08:29] "[33mGET /favicon.png HTTP/1.0[0m" 404 -
+127.0.0.1 - - [06/May/2024 10:08:42] "[33mGET /theme/Bob-Theme-Argon/favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [06/May/2024 10:09:34] "[33mGET /officialsite HTTP/1.0[0m" 404 -
+127.0.0.1 - - [06/May/2024 16:48:46] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [06/May/2024 16:48:50] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [06/May/2024 16:48:54] "[33mGET /robots.txt HTTP/1.0[0m" 404 -
+127.0.0.1 - - [06/May/2024 16:48:59] "[33mGET /sitemap.xml HTTP/1.0[0m" 404 -

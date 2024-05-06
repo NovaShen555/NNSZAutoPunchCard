@@ -26,6 +26,7 @@ def punch():
                 time.sleep(2)
                 print(row[0], row[1])
                 # ck = {'code': 200}
+                print(ck)
                 print(getTime()+str(ck))
                 if ck['code'] == 200:
                     # 将数据写入CSV文件
