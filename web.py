@@ -2,6 +2,7 @@ import json
 import time
 
 from flask import Flask, render_template, request, flash, redirect, url_for
+from gevent import pywsgi
 from punch_crack import *
 from autoPunch import punch
 
@@ -70,4 +71,5 @@ def index():
 
 if __name__ == '__main__':
     print('Server is running...')
-    app.run()
+    server = pywsgi.WSGIServer(('0.0.0.0', 5000), app)
+    server.serve_forever()
